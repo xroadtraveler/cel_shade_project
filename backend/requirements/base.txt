@@ -1,0 +1,4 @@
+Django>=3.2,<4.0
+djangorestframework>=3.12.0
+opencv-python-headless>=4.5.1  # Use headless version to avoid GUI dependencies for server environments
+numpy>=1.19.5  # Likely required by OpenCV, but good to specify if you're using it directly

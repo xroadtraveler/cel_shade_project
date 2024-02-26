@@ -1,0 +1,4 @@
+# Production-specific requirements, including base.in
+
+-c requirements.txt  # For production
+# Production-specific dependencies below...

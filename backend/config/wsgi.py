@@ -1,0 +1,3 @@
+'''
+WSGI file for Django
+'''
